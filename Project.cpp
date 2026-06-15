@@ -1,3 +1,4 @@
+/*A cpp code that automatically calculates salaries of emplyees working in various sytems in school*/
 #include <iostream>
 #include <string>
 #include <algorithm>
